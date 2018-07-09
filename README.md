@@ -16,7 +16,7 @@ The files that are needed to modify are below:
  - Parameters for the control code are in config/QuadControlParams.txt
 
 
-Project outline:
+### Project outline: ###
 
  - [Step 1: Sensor Noise](#step-1-sensor-noise)
  - [Step 2: Attitude Estimation](#step-2-attitude-estimation)
